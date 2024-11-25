@@ -359,3 +359,6 @@ history -a
 chmod +x bingo.sh
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+which -a bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
