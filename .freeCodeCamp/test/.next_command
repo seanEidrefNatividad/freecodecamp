@@ -329,3 +329,6 @@ history -a
 ls --color=auto /bin
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+man sleep
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
