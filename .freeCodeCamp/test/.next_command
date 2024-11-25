@@ -97,3 +97,6 @@ history -a
 which -a bash
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+./countdown.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
