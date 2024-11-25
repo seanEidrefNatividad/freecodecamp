@@ -253,3 +253,6 @@ history -a
 [[ 4 -ge 5 ]]
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+echo $?
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
