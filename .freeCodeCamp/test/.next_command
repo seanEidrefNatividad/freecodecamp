@@ -208,3 +208,6 @@ history -a
 ./countdown.sh arg2
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+./countdown.sh 4
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
