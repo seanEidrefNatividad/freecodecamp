@@ -109,3 +109,51 @@ history -a
 ./countdown.sh arg1 arg2 arg3
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+ls --color=auto
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./countdown.sh arg1 arg2 arg3
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./countdown.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+countdown.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -l
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+chmod countdown.sh +x
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+chmod +x countdown.sh +x
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+chmod +x countdown.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -l
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+chmod +x countdown.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -l
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./countdown.sh arg1 arg2 arg3
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./countdown.sh arg1 arg2 arg3
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+help
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
