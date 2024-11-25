@@ -308,3 +308,6 @@ history -a
 ./countdown.sh -1
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+help
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
