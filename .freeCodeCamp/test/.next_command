@@ -444,3 +444,6 @@ history -a
 $(( I + 4 ))
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+echo $(( I + 4 ))
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
