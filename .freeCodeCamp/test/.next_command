@@ -365,3 +365,13 @@ history -a
 ./bingo.sh
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+printenf
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+printenv
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
