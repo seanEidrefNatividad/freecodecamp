@@ -326,3 +326,6 @@ history -a
 ls --color=auto /
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+ls --color=auto /bin
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
