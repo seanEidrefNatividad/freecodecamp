@@ -347,3 +347,6 @@ history -a
 help while
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+man while
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
