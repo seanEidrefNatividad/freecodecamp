@@ -85,3 +85,15 @@ man echo
 touch countdown.sh
 chmod +x
 chmod +x countdown.sh
+bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+where bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+which bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+which -a bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
