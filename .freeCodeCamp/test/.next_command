@@ -283,3 +283,7 @@ history -a
 echo $?
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+[[ -a bad_file.txt ]]
+echo $?
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
