@@ -335,3 +335,6 @@ history -a
 sleep 3
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+./countdown.sh 3
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
