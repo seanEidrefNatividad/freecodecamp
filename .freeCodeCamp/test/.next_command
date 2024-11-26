@@ -781,3 +781,28 @@ declare -p
 declare -p
 declare -p ARR
 ./fortune.sh
+./fortune.sh
+./fortune.sh
+declare -p RANDOM
+echo $RANDOM
+echo ${RANDOM%5}
+echo ${RANDOM%5}
+echo ${RANDOM%5}
+echo ${RANDOM}
+echo ${RANDOM}
+echo ${RANDOM%75}
+echo ${RANDOM%75}
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+(( $RANDOM%75 ))
+echo $RANDOM%5
+echo [[ $RANDOM%5 ]]
+__vsc_prompt_cmd_original
+echo $(( RANDOM%5 ))
+echo $(( RANDOM%5 ))
+echo $(( RANDOM%5 ))
+echo $(( RANDOM%5+1 ))
+echo $(( RANDOM%5+1 ))
+echo $(( RANDOM%5+1 ))
+echo $(( RANDOM%5+1 ))
+echo $(( RANDOM%5+1 ))
