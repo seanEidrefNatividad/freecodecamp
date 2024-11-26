@@ -844,3 +844,4 @@ __vsc_prompt_cmd_original
 [[ test? =~ \?$ ]]
 [[ test? == \?$ ]]
 ./fortune.sh
+./fortune.sh
