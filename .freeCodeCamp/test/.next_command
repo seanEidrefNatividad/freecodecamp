@@ -774,3 +774,6 @@ ARR=("a","b","c")
 ARR=("a""b""c")
 ARR=("a" "b" "c")
 echo ${ARR[1]}
+echo $*
+echo ${ARR*}
+echo ${ARR[*]}
