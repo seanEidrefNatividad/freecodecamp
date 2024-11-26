@@ -770,3 +770,6 @@ man -e
 man --e
 help -e
 ./fortune.sh
+ARR=("a","b","c")
+ARR=("a""b""c")
+ARR=("a" "b" "c")
