@@ -773,3 +773,4 @@ help -e
 ARR=("a","b","c")
 ARR=("a""b""c")
 ARR=("a" "b" "c")
+echo ${ARR[1]}
