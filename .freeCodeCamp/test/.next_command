@@ -764,3 +764,8 @@ touch fortune.sh
 chmod +x fortune.sh
 which bash
 which -a bash
+help
+help -e
+man -e
+man --e
+help -e
