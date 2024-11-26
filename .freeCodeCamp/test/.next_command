@@ -840,3 +840,4 @@ __vsc_prompt_cmd_original
 [[ "hello world" == $VAR ]]
 [[ $VAR == $VAR ]]
 [[ $VAR == 'hello world' ]]
+[[ $VAR =~ \?$ ]]
