@@ -823,3 +823,4 @@ help
 help until
 ./fortune.sh
 help [[
+[[ hello == hello ]]
