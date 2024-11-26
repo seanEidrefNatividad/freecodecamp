@@ -808,3 +808,12 @@ echo $(( RANDOM%5+1 ))
 echo $(( RANDOM%5+1 ))
 echo $(( RANDOM%5+1 ))
 help
+__vsc_prompt_cmd_original
+help [[
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+hlep
+__vsc_prompt_cmd_original
+help
+__vsc_prompt_cmd_original
+help function
