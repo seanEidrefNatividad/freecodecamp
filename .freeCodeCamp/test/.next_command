@@ -762,3 +762,5 @@ __vsc_prompt_cmd_original
 ./bingo.sh
 touch fortune.sh
 chmod +x fortune.sh
+which bash
+which -a bash
