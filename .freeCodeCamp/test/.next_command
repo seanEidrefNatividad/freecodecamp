@@ -302,3 +302,24 @@ ls --color=auto
 ls --color=auto
 pg_dump --help
 pg_dump --clean --create --inserts --username=freecodecamp students > students.sql
+git remote -v
+help
+help set
+declare -p
+remote_url
+set url
+declare -p remote_url
+declare -p url
+declare -p remote
+declare -p remote
+help remote
+man remote
+man git
+help git
+man git remote
+git checkout -b student_database_pt1
+git remote set-url origin https://github.com/seanEidrefNatividad/freecodecamp
+git remote -v
+git remote -v
+git push origin student_database_pt1
+git add .
