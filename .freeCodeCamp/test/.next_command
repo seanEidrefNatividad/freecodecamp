@@ -153,3 +153,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 ./student_info.sh
+psql --username=freecodecamp --dbname=postgres
