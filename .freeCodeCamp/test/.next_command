@@ -162,3 +162,4 @@ __vsc_prompt_cmd_original
 ./student_info.sh
 psql --username=freecodecamp --dbname=postgres
 ./student_info.sh
+git add .
