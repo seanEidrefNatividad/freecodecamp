@@ -281,3 +281,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto
 ./insert_data.sh
+./insert_data.sh
