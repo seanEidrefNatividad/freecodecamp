@@ -290,3 +290,4 @@ ls --color=auto
 cp students.csv students_test.csv
 man while
 help while
+./insert_data.sh
